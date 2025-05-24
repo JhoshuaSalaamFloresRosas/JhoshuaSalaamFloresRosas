@@ -22,16 +22,28 @@
 
 ## 🏅 Certificados y reconocimientos
 
-A continuación se muestra una galería visual de algunos de mis certificados.  
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
-| Certificado | Imagen |
-|------------|--------|
-| Certificado 1 | ![Certificado 1](./certificados/certificado1.jpg) |
-| Certificado 2 | ![Certificado 2](./certificados/certificado2.jpg) |
-| Certificado 3 | ![Certificado 3](./certificados/certificado3.jpg) |
-| Certificado 4 | ![Certificado 4](./certificados/certificado4.jpg) |
-| Certificado 5 | ![Certificado 5](./certificados/certificado5.png) |
+  <a href="./certificados/certificado1.jpg" target="_blank">
+    <img src="./certificados/certificado1.jpg" alt="Certificado 1" width="200" style="margin: 10px; border-radius: 8px;" />
+  </a>
 
----
+  <a href="./certificados/certificado2.jpg" target="_blank">
+    <img src="./certificados/certificado2.jpg" alt="Certificado 2" width="200" style="margin: 10px; border-radius: 8px;" />
+  </a>
+
+  <a href="./certificados/certificado3.jpg" target="_blank">
+    <img src="./certificados/certificado3.jpg" alt="Certificado 3" width="200" style="margin: 10px; border-radius: 8px;" />
+  </a>
+
+  <a href="./certificados/certificado4.jpg" target="_blank">
+    <img src="./certificados/certificado4.jpg" alt="Certificado 4" width="200" style="margin: 10px; border-radius: 8px;" />
+  </a>
+
+  <a href="./certificados/certificado5.png" target="_blank">
+    <img src="./certificados/certificado5.png" alt="Certificado 5" width="200" style="margin: 10px; border-radius: 8px;" />
+  </a>
+
+</div>
 
 ¡Gracias por visitar mi perfil!
