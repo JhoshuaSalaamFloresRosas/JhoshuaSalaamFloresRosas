@@ -25,7 +25,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: space-evenly; align-items:center;">
 
   <a href="./certificados/certificado1.jpg" target="_blank">
-    <img src="./certificados/certificado5.jpg" alt="Certificado 1" width="250px" style="border-radius: 30%;" />
+    <img src="./certificados/certificado5.png" alt="Certificado 1" width="250px" style="border-radius: 30%;" />
   </a>
 
   <a href="./certificados/certificado2.jpg" target="_blank">
