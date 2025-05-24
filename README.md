@@ -22,26 +22,26 @@
 
 ## 🏅 Certificados y reconocimientos
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-evenly; align-items:center;">
 
   <a href="./certificados/certificado1.jpg" target="_blank">
-    <img src="./certificados/certificado1.jpg" alt="Certificado 1" width="200" style="margin: 10px; border-radius: 8px;" />
+    <img src="./certificados/certificado1.jpg" alt="Certificado 1" min-width="300px" style=" border-radius: 30%;" />
   </a>
 
   <a href="./certificados/certificado2.jpg" target="_blank">
-    <img src="./certificados/certificado2.jpg" alt="Certificado 2" width="200" style="margin: 10px; border-radius: 8px;" />
+    <img src="./certificados/certificado2.jpg" alt="Certificado 1" min-width="300px" style=" border-radius: 30%;" />
   </a>
 
   <a href="./certificados/certificado3.jpg" target="_blank">
-    <img src="./certificados/certificado3.jpg" alt="Certificado 3" width="200" style="margin: 10px; border-radius: 8px;" />
+    <img src="./certificados/certificado3.jpg" alt="Certificado 1" min-width="300px" style=" border-radius: 30%;" />
   </a>
 
   <a href="./certificados/certificado4.jpg" target="_blank">
-    <img src="./certificados/certificado4.jpg" alt="Certificado 4" width="200" style="margin: 10px; border-radius: 8px;" />
+    <img src="./certificados/certificado4.jpg" alt="Certificado 1" min-width="300px" style=" border-radius: 30%;" />
   </a>
 
   <a href="./certificados/certificado5.png" target="_blank">
-    <img src="./certificados/certificado5.png" alt="Certificado 5" width="200" style="margin: 10px; border-radius: 8px;" />
+    <img src="./certificados/certificado5.png" alt="Certificado 1" min-width="300px" style=" border-radius: 30%;" />
   </a>
 
 </div>
