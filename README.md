@@ -30,8 +30,7 @@ A continuación se muestra una galería visual de algunos de mis certificados.
 | Certificado 2 | ![Certificado 2](./certificados/certificado2.jpg) |
 | Certificado 3 | ![Certificado 3](./certificados/certificado3.jpg) |
 | Certificado 4 | ![Certificado 4](./certificados/certificado4.jpg) |
-| Certificado 5 | ![Certificado 5](./certificados/certificado5.jpg) |
-| Reconocimiento | ![Reconocimiento](./certificados/reconocimiento.jpg) |
+| Certificado 5 | ![Certificado 5](./certificados/certificado5.png) |
 
 ---
 
